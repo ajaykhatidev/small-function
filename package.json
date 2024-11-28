@@ -1,0 +1,19 @@
+{
+  "name": "small-function",
+  "version": "1.0.0",
+  "description": "npm pakage for all small work",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run small-function"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaykhatidev/small-function.git"
+  },
+  "author": "ajay khati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaykhatidev/small-function/issues"
+  },
+  "homepage": "https://github.com/ajaykhatidev/small-function#readme"
+}
