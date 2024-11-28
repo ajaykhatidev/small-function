@@ -2,7 +2,7 @@
   "name": "small-function",    
   "version": "1.0.0",
   "description": "npm pakage for all small work",
-  "main": "index.js",
+  "main": "index.js",  
   "scripts": {
     "test": "npm run small-function"
   },
